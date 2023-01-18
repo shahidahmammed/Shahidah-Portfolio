@@ -145,3 +145,7 @@ a {
 .contact-para {
     text-decoration: underline;
 }
+
+#contact-info {
+    text-align: center;
+}
